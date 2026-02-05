@@ -18,3 +18,5 @@ client/dist/
 
 # Spring Boot secrets
 authify/src/main/resources/application.properties
+
+.metadata/
