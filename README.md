@@ -72,7 +72,7 @@ Full-Stack-Authentication-System/ <br/>
 ---
 
 ### 🔥 First Look (Authify)
-![Authify Home Page Without Login](home-page-without-login.png)
+![Authify Home Page Without Login](screenshots/home-page-without-login.png)
 
 ## ✉️ Email Verification (OTP)
 
