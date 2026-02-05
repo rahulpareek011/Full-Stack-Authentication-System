@@ -71,6 +71,9 @@ Full-Stack-Authentication-System/ <br/>
 
 ---
 
+### 🔥 First Look (Authify)
+![Authify Home Page Without Login](home-page-without-login/verify-Email-btn.png)
+
 ## ✉️ Email Verification (OTP)
 
 - OTP is generated on the backend
@@ -80,7 +83,8 @@ Full-Stack-Authentication-System/ <br/>
 - Verified users are blocked from accessing the verify page via URL
 
 ### 📸 Verify Email Page (UI Preview)
-
+![Verify Email Btn](screenshots/verify-Email-btn.png)
+![Verify Email Page](screenshots/verify-email-page.png)
 
 ---
 
@@ -93,7 +97,9 @@ Full-Stack-Authentication-System/ <br/>
 5. Backend validates OTP and updates password securely
 
 ### 📸 Reset Password Flow (UI Preview)
-
+![Reset Password For Email Page](screenshots/reset-pas-email.png)
+![Reset Password Otp Page](screenshots/reset-pas-otp.png)
+![Reset Password Page](screenshots/reset-pas.png)
 
 ---
 
@@ -105,7 +111,7 @@ Full-Stack-Authentication-System/ <br/>
 - Secure logout functionality
 
 ### 📸 Home Page (UI Preview)
-
+![Home Page](screenshots/home-after-login.png)
 
 ---
 
