@@ -72,7 +72,7 @@ Full-Stack-Authentication-System/ <br/>
 ---
 
 ### 🔥 First Look (Authify)
-![Authify Home Page Without Login](home-page-without-login/verify-Email-btn.png)
+![Authify Home Page Without Login](home-page-without-login.png)
 
 ## ✉️ Email Verification (OTP)
 
@@ -83,8 +83,8 @@ Full-Stack-Authentication-System/ <br/>
 - Verified users are blocked from accessing the verify page via URL
 
 ### 📸 Verify Email Page (UI Preview)
-![Verify Email Btn](screenshots/verify-Email-btn.png)
-![Verify Email Page](screenshots/verify-email-page.png)
+[Verify Email Btn](screenshots/verify-Email-btn.png)
+[Verify Email Page](screenshots/verify-email-page.png)
 
 ---
 
