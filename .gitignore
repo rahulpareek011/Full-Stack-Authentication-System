@@ -1,0 +1,20 @@
+# Backend
+authify/target/
+authify/.classpath
+authify/.project
+authify/.settings/
+
+# Frontend
+client/node_modules/
+client/dist/
+
+# OS & IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Env
+.env
+
+# Spring Boot secrets
+authify/src/main/resources/application.properties
