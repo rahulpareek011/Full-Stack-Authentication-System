@@ -83,8 +83,8 @@ Full-Stack-Authentication-System/ <br/>
 - Verified users are blocked from accessing the verify page via URL
 
 ### 📸 Verify Email Page (UI Preview)
-[Verify Email Btn](screenshots/verify-Email-btn.png)
-[Verify Email Page](screenshots/verify-email-page.png)
+![Verify Email Page](screenshots/verify-email-page.png)
+![Verify Email Page](screenshots/verify-email-template.png)
 
 ---
 
@@ -112,6 +112,7 @@ Full-Stack-Authentication-System/ <br/>
 
 ### 📸 Home Page (UI Preview)
 ![Home Page](screenshots/home-after-login.png)
+![Verify Email Btn](screenshots/verify-Email-btn.png)
 
 ---
 
@@ -184,17 +185,3 @@ Full-Stack Java Developer
 ## ✅ Conclusion
 
 This project demonstrates **real-world authentication system design**, focusing on security, scalability, and clean architecture rather than just UI.
-
----
-
-### 📌 Adding Screenshots Later
-
-To add real screenshots:
-1. Create a `screenshots/` folder
-2. Add images (e.g. `home.png`)
-3. Replace preview blocks with:
-
-```md
-![Home Page](screenshots/home.png)
-
-
